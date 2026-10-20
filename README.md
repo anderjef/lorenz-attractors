@@ -5,9 +5,9 @@ Start date: 2020-10-31
 
 ## Demo
 
-![Sample 1 screenshot 1](Picture1.png)
+![Sample 1 screenshot 1](sample-1-screenshot-1.png)
 
-![Sample 1 screenshot 2](Picture2.png)
+![Sample 1 screenshot 2](sample-1-screenshot-2.png)
 
 ## Dependencies
 
